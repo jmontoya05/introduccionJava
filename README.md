@@ -1,4 +1,4 @@
-# EJERCICIOS INTRODUCCION A JAVA
+# Ejercicios Introducción a Java
 1. Solicitar al usuario un número de cliente. Si el número es el 1000, imprimir
 “Ganaste un premio” de lo contrario imprimir “Sigue participando”.
 
